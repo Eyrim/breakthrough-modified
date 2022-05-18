@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Breakthrough/1.0.0": {
+        "runtime": {
+          "Breakthrough.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Breakthrough/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+G:\breakthrough\Breakthrough\Breakthrough\bin\Debug\net5.0\Breakthrough.exe
+G:\breakthrough\Breakthrough\Breakthrough\bin\Debug\net5.0\Breakthrough.deps.json
+G:\breakthrough\Breakthrough\Breakthrough\bin\Debug\net5.0\Breakthrough.runtimeconfig.json
+G:\breakthrough\Breakthrough\Breakthrough\bin\Debug\net5.0\Breakthrough.runtimeconfig.dev.json
+G:\breakthrough\Breakthrough\Breakthrough\bin\Debug\net5.0\Breakthrough.dll
+G:\breakthrough\Breakthrough\Breakthrough\bin\Debug\net5.0\ref\Breakthrough.dll
+G:\breakthrough\Breakthrough\Breakthrough\bin\Debug\net5.0\Breakthrough.pdb
+G:\breakthrough\Breakthrough\Breakthrough\obj\Debug\net5.0\Breakthrough.csproj.AssemblyReference.cache
+G:\breakthrough\Breakthrough\Breakthrough\obj\Debug\net5.0\Breakthrough.GeneratedMSBuildEditorConfig.editorconfig
+G:\breakthrough\Breakthrough\Breakthrough\obj\Debug\net5.0\Breakthrough.AssemblyInfoInputs.cache
+G:\breakthrough\Breakthrough\Breakthrough\obj\Debug\net5.0\Breakthrough.AssemblyInfo.cs
+G:\breakthrough\Breakthrough\Breakthrough\obj\Debug\net5.0\Breakthrough.csproj.CoreCompileInputs.cache
+G:\breakthrough\Breakthrough\Breakthrough\obj\Debug\net5.0\Breakthrough.dll
+G:\breakthrough\Breakthrough\Breakthrough\obj\Debug\net5.0\ref\Breakthrough.dll
+G:\breakthrough\Breakthrough\Breakthrough\obj\Debug\net5.0\Breakthrough.pdb
+G:\breakthrough\Breakthrough\Breakthrough\obj\Debug\net5.0\Breakthrough.genruntimeconfig.cache
